@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Welcome">Welcome to Apartment!</string>
+    <string name="Settings">Settings</string>
+</resources>
